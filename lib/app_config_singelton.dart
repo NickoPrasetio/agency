@@ -8,6 +8,7 @@ import 'package:agency/flavour/config_prod.dart';
 import 'package:agency/flavour/config_sit.dart';
 import 'package:agency/flavour/config_uat.dart';
 import 'package:agency/injection_module/base_module.dart';
+import 'package:agency/preference_utils.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/semantics.dart';
