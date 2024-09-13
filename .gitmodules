@@ -1,0 +1,6 @@
+[submodule "ui-helper"]
+	path = ui-helper
+	url = https://github.com/NickoPrasetio/ui-helper.git
+[submodule "packages/ui-helper"]
+	path = packages/ui-helper
+	url = https://github.com/NickoPrasetio/ui-helper.git
