@@ -2,6 +2,7 @@
 //  app_config_singleton.dart
 //
 
+import 'package:agency/agency_app.dart';
 import 'package:agency/app_config.dart';
 import 'package:agency/flavour/config_dev.dart';
 import 'package:agency/flavour/config_prod.dart';
@@ -45,10 +46,10 @@ class AppConfigSingleton {
     initModule();
 
     // Initialize PreferenceUtils instance.
-    await PreferenceUtils.init();
+    // await PreferenceUtils.init();
 
     // Run Inspire App
-    runApp(const InspireApp());
+    runApp(const AgencyApp());
 
     // IMPORTANT: uncomment to check semantics label
     if (kIsWeb) {

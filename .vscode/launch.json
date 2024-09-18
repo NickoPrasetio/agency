@@ -1,0 +1,33 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "agency_flutter (dev) (Debug mode)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "flutterMode": "debug",
+            "args": []
+        },
+        {
+            "name": "agency_flutter (staging) (Debug mode)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_flavour/main_staging.dart",
+            "flutterMode": "debug",
+            "args": []
+        },
+        {
+            "name": "agency_flutter (prod) (Debug mode)",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_flavour/main_prod.dart",
+            "flutterMode": "debug",
+            "args": []
+        },
+    ]
+}

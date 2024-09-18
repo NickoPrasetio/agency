@@ -1,0 +1,17 @@
+{
+  "@@locale": "id",
+  "backButton": "Back",
+  "alertTitle": "Warning!",
+  "alertYesBtn": "Yes",
+  "alertNoBtn": "No",
+  "alertOkBtn": "OK",
+  "alertCancelBtn": "Cancel",
+  "alertInstallBtn": "Install",
+  "alertFillAllData": "Please complete all fields.",
+  "userName": "User Name",
+  "password": "Password",
+  "dashboard": "Dashboard",
+  "recuritmentAnalystics": "Recuritment Analystics",
+  "seeDetails": "See Details",
+  "last30Days": "Last 30 Days"
+}
